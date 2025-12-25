@@ -37,6 +37,7 @@ This project implements an intelligent audio classification system that listens 
 
 ```
 Wake_Word_detector/
+├── assets/
 ├── app.py                 # Streamlit web interface
 ├── train.py              # Model training script
 ├── config.py             # Configuration constants
@@ -246,3 +247,4 @@ Feel free to submit issues and enhancement requests!
 ## 📄 License
 
 MIT
+
